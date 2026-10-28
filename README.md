@@ -1,6 +1,6 @@
-## 👏 Hi, I'm *your name here*
+## 👏 Hi, I'm Christian Glaspie
 ##  About Me
-_Share some information about yourself, including your class, major, jobs, and extra-curriculars._
+Hi, I am Christian Glaspie. I am currently a freshman at The University of Texas at San Antonio. I love technology and things related. I have many hobbies such as gaming, sleeping, cooking, and more! I am currently pursuing a degree in cybersecurity and can't wait to see what the future holds.
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
